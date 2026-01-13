@@ -1,0 +1,5 @@
+{
+  "name": "PDF to JSON Parser",
+  "description": "A powerful utility that uses Gemini 3 to parse PDF documents and convert their structure and content into formatted JSON data.",
+  "requestFramePermissions": []
+}
